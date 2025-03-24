@@ -3,3 +3,8 @@ this is d1 file in developer branch
 a=1
 b=2
 c=a+b
+
+//story-131
+i=10
+j=20
+k=i+j
