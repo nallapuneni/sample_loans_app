@@ -4,7 +4,15 @@ a=1
 b=2
 c=a+b
 
+<<<<<<< Updated upstream
 //story-131
 i=10
 j=20
 k=i+j
+=======
+//story-121
+x=20
+y=21
+z=x+y
+
+>>>>>>> Stashed changes
